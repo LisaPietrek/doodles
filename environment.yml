@@ -1,0 +1,18 @@
+# Conda environment specification file for Binder
+#
+# 1) To manually create the conda environment, run the command:
+#       conda env create -f environment.yml
+# 2) To enable the newly created environment, run the command:
+#       conda activate environment
+
+name: doodles
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - scipy=1.11
+  - matplotlib=3.8
+  - jupyterlab=4.0
+  - jupyter-server-proxy
+  - pip
