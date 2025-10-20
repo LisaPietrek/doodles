@@ -7,6 +7,12 @@ A collection of Python code snippets and small projects I created to improve my 
 This folder contains small machine learning projects based on concepts I learned during studies and from books or online courses.
 Each project explores different models or techniques to strengthen my practical understanding of machine learning.
 
+
+### homl3_exercises
+
+This folder contains exercises from the book:
+“Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron.
+ 
 ## random_ideas
 
 In this directory, you'll find implementations of varioius algorithms or ideaas I came across during my studies and practice sessions.
